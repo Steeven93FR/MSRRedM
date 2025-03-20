@@ -1,0 +1,20 @@
+{
+  "name": "redm-butcher",
+  "version": "1.0.0",
+  "description": "RedM Butcher System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["redm", "butcher", "system"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "vite": "^4.5.2"
+  }
+}
